@@ -1,2 +1,5 @@
 /backend/admin/env
 .gitignore
+.dbdata
+/backend/main/migrations
+/backend/main/__pycache__
